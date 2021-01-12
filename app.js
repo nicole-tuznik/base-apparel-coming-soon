@@ -19,6 +19,8 @@ submit.addEventListener('click', function (e){
     form.classList.add('error');
     // Prevents form from sending if email isn't valid
     e.preventDefault();
+    formInput.value = '';
+    formInput.focus();
   }
 });
 
