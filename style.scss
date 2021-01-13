@@ -90,6 +90,10 @@ body {
       outline: none;
     }
   }
+
+  label {
+    display: none;
+  }
   
   &__btn {
     position: absolute;
