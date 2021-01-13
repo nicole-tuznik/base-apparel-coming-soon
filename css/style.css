@@ -197,6 +197,7 @@ body {
   .text {
     text-align: left;
     line-height: 1.5;
+    padding-right: 20px;
   }
   .text__heading {
     font-size: 4rem;
