@@ -113,10 +113,6 @@ body {
   outline: none;
 }
 
-.form label {
-  display: none;
-}
-
 .form__btn {
   position: absolute;
   background-image: linear-gradient(135deg, #f8bfbf, #ee8c8c);
